@@ -11,7 +11,7 @@ Hands-on labs, writeups, and projects while building toward a cybersecurity care
 ## Projects
 | Lab | What it covers | Status |
 |---|---|---|
-| Coming soon | First home lab | In progress |
+| [Account security check](labs/01-account-security.md) | 2FA, recovery codes, unique passwords | Done |
 
 ## Currently studying
 - Security fundamentals
